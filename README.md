@@ -1,1 +1,1 @@
-This my first React app following Brad Traverse React crash course tutorial.
+A Todo app built following Brad Traversy React crash course tutorial.
